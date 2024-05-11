@@ -42,3 +42,5 @@ This is a web application designed to explore information about Images from arou
 ## Acknowledgements
   This project was created by **Tony Brian Mwenda**.Special thanks to Pixabay Api for the data and **Joseph Wanini** for helping be debug some errors.
 
+## Licence
+This Project is Licenced under
