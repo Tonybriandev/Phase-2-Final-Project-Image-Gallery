@@ -44,3 +44,7 @@ This is a web application designed to explore information about Images from arou
 
 ## Licence
 This Project is Licenced under
+
+## Contacts
+* Phone number: +254112779229
+* Email: Tonybrianmwenda@gmail.com
