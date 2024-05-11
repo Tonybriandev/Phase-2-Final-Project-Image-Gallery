@@ -16,7 +16,29 @@ This is a web application designed to explore information about Images from arou
 
 
 ## Author
+
 **TONY BRIAN MWENDA**
+
 ## Installation and Usage
+
 1. Clone this repo into your local machine;
-   [git clone] 
+   [git clone] https://github.com/Tonybriandev/Phase-2-Final-Project-Image-Gallery
+2. Open the index.html file in a web browser and launch the application.
+3. Use the search input to search for Image in the website.
+4. To search for another image delete the text on the search bar and re-write the next image term.
+
+## Technologies Used
+
+* HTML
+* TAILWINDCSS
+* JAVASCRIPT
+* REACTJS
+* CSS
+
+## External API
+
+  This project utilizes the Pixabay API to fetch data about Images, including taken by, likes, downloads, views and more.
+
+## Acknowledgements
+  This project was created by **Tony Brian Mwenda**.Special thanks to Pixabay Api for the data and **Joseph Wanini** for helping be debug some errors.
+
