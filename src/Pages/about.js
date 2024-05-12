@@ -2,8 +2,8 @@ import React from 'react'
 
 const about = () => {
   return (
-      <div className="container mx-auto px-4 py-8">
-        <h1 className="text-3xl font-bold mb-4">About Us</h1>
+    <div className="container max-w-3xl mx-auto px-4 py-8 min-h-screen">
+        <h1 className="text-3xl font-bold mb-4 text-indigo-500">About Us</h1>
         <p className="text-lg mb-4">
           Welcome to our image gallery website! We are passionate about capturing
           and sharing beautiful moments through photography.
