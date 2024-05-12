@@ -48,7 +48,7 @@ This is a web application designed to explore information about Images from arou
   This project was created by **Tony Brian Mwenda**.Special thanks to Pixabay Api for the data and **Joseph Wanini** for helping be debug some errors.
 
 ## Licence
-This Project is Licenced under
+This Project is Licenced under MIT Licence
 
 ## Contacts
 * Phone number: +254112779229
