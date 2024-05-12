@@ -14,6 +14,10 @@ This is a web application designed to explore information about Images from arou
 
 ## Preview
 ![Screenshot from 2024-05-12 23-30-31](https://github.com/Tonybriandev/Phase-2-Final-Project-Image-Gallery/assets/161289086/5eb00ca2-e848-4f76-a71e-0785a7fa0a45)
+![Screenshot from 2024-05-12 23-30-31-1](https://github.com/Tonybriandev/Phase-2-Final-Project-Image-Gallery/assets/161289086/4abe0f6b-94f2-4f19-b89c-b5f9e9063e19)
+![Screenshot from 2024-05-12 23-31-24](https://github.com/Tonybriandev/Phase-2-Final-Project-Image-Gallery/assets/161289086/5a3bf219-6f1a-441f-9a7b-53c1b9053d19)
+![Screenshot from 2024-05-12 23-31-31](https://github.com/Tonybriandev/Phase-2-Final-Project-Image-Gallery/assets/161289086/ca8146f0-3a05-49b0-815e-108d940d9e9a)
+![Screenshot from 2024-05-12 23-31-45](https://github.com/Tonybriandev/Phase-2-Final-Project-Image-Gallery/assets/161289086/414c096e-4424-4adb-b1c9-551cd3e42962)
 
 
 ## Author
