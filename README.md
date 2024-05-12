@@ -13,6 +13,7 @@ This is a web application designed to explore information about Images from arou
 - A form where the user can can reach to us and even leave a message is hereby found.
 
 ## Preview
+![Screenshot from 2024-05-12 23-30-31](https://github.com/Tonybriandev/Phase-2-Final-Project-Image-Gallery/assets/161289086/5eb00ca2-e848-4f76-a71e-0785a7fa0a45)
 
 
 ## Author
