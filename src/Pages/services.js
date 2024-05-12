@@ -4,7 +4,7 @@ const services = () => {
   return (
     <div className="bg-white-100 min-h-screen">
       <div className="container mx-auto px-4 py-12">
-        <h1 className="text-4xl font-bold text-center mb-8">Our Services</h1>
+        <h1 className="text-4xl font-bold text-center text-indigo-500 mb-8">Our Services</h1>
         <div className="max-w-3xl mx-auto">
           <div className="mb-8">  
             <h2 className="text-2xl font-semibold mb-4">Image Gallery</h2>
