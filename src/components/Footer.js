@@ -31,6 +31,7 @@ const Footer = () => {
             <div className="max-w-lg sm:mx-auto sm:text-center">
                 <a href="#" className="flex ml-2 md:mr-24">
                     <FcGallery
+                    
                         size={24}
                         className=" mr-3 h-8 w-32 sm:mx-auto dark:text-gray-50"
                     />
