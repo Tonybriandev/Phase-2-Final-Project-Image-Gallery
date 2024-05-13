@@ -1,4 +1,4 @@
-
+// importing components
 import React from 'react';
 import { useState, useEffect } from 'react';
 import ImageCard from './ImageCard';
@@ -8,7 +8,7 @@ const Hero = () => {
     const [images, setImages] = useState([]);
     const [isLoading, setIsLoading] = useState(true);
     const [text, setTerm] = useState('');
-
+// Fetching data from the API
     useEffect(() => {
         fetch(`https://pixabay.com/api/?key=43668618-da5b7c392480d90d5ab97297b&q=${text}`)
             .then(res => res.json())
