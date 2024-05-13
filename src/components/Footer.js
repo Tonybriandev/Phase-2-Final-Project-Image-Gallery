@@ -1,3 +1,4 @@
+//THis is my footer page
 import { FcGallery } from "react-icons/fc"
 const Footer = () => {
 
