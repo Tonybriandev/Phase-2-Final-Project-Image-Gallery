@@ -45,7 +45,7 @@ This is a web application designed to explore information about Images from arou
   This project utilizes the Pixabay API to fetch data about Images, including taken by, likes, downloads, views and more.
 
 ## Acknowledgements
-  This project was created by **Tony Brian Mwenda**.Special thanks to Pixabay Api for the data and **Joseph Wanini** for helping be debug some errors.
+  This project was created by **Tony Brian Mwenda**.Special thanks to Pixabay Api for the data and **Joseph Wanini** for helping me debug some errors.
 
 ## Contacts
 * Phone number: +254112779229
